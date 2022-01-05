@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Morse</string>
+    <string name="lets_learn_together">lets learn together</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="start">START</string>
+    <string name="intro1">Morse code is a method used in communication to encode text characters as standardized sequences of two different signal durations, called dots and dashes. Morse code is named after Samuel Morse. Morse code can be used for writing secretive messages and also for signaling emergency signals or situations. In Learn Morse Code app, the code has been divided into 7 parts to help you enhance your learning.</string>
+    <string name="intro2">In Learn Morse Code app, the code has been divided into 7 parts to help you enhance your learning.</string>
+</resources>
