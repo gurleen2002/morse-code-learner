@@ -1,4 +1,4 @@
-# PROJECT NAME
+# MORSE CODE APP
 
 A Simple and Easy to use MORSE CODE LEARNER APP that lets the user to learn the International Morse Code in a wink.The alphabets (A-Z) and numbers (0-9) are divided into different set of sections to enhance and ensure fast learning of the code
 
